@@ -1,0 +1,98 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 17916
+License: Customer
+
+Current time: 	Wed Jun 07 17:33:53 IST 2023
+Time zone: 	India Standard Time (Asia/Colombo)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1536x864
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 54 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre
+Java executable location: 	C:/Xilinx/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	tisha
+User home directory: C:/Users/tisha
+User working directory: C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2018.2
+RDI_DATADIR: C:/Xilinx/Vivado/2018.2/data
+RDI_BINDIR: C:/Xilinx/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/tisha/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/tisha/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/tisha/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10/vivado.log
+Vivado journal file location: 	C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10/vivado.jou
+Engine tmp dir: 	C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10/.Xil/Vivado-17916-TKSMEERA
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2018.2
+XILINX_SDK: C:/Xilinx/SDK/2018.2
+XILINX_VIVADO: C:/Xilinx/Vivado/2018.2
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2018.2
+
+
+GUI allocated memory:	242 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 594 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// Opening Vivado Project: C:\Users\tisha\OneDrive\Desktop\Xilinx Vivado\Labs\Lab 9_10\Nano_Proc.xpr. Version: Vivado v2018.2 
+// bx (ck):  Open Project : addNotify
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// Tcl Message: open_project {C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10/Nano_Proc.xpr} 
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 60 MB (+59937kb) [00:00:06]
+// [Engine Memory]: 513 MB (+386353kb) [00:00:06]
+// Tcl Message: open_project {C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10/Nano_Proc.xpr} 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 64 MB (+1051kb) [00:00:08]
+// [Engine Memory]: 567 MB (+29766kb) [00:00:08]
+// [GUI Memory]: 72 MB (+5934kb) [00:00:10]
+// HMemoryUtils.trashcanNow. Engine heap size: 594 MB. GUI used memory: 40 MB. Current time: 6/7/23 5:33:53 PM IST
+// [Engine Memory]: 613 MB (+18019kb) [00:00:11]
+// Project name: Nano_Proc; location: C:/Users/tisha/OneDrive/Desktop/Xilinx Vivado/Labs/Lab 9_10; part: xc7a35ticpg236-1L
+// Tcl Message: open_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 850.645 ; gain = 109.375 
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 

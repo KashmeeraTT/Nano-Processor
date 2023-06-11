@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Instruction_Decorder_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Instruction_Decorder_TB" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="1000000001fs"></ZoomEndTime>
+      <Cursor1Time time="1000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="59"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="12" />
+   <wvobject fp_name="/Instruction_Decorder_TB/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[11:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/jump_check" type="logic">
+      <obj_property name="ElementShortName">jump_check</obj_property>
+      <obj_property name="ObjectShortName">jump_check</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/Reg_sel_A" type="array">
+      <obj_property name="ElementShortName">Reg_sel_A[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_sel_A[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/Reg_sel_B" type="array">
+      <obj_property name="ElementShortName">Reg_sel_B[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_sel_B[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/jump_flag" type="logic">
+      <obj_property name="ElementShortName">jump_flag</obj_property>
+      <obj_property name="ObjectShortName">jump_flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/jump_Addr" type="array">
+      <obj_property name="ElementShortName">jump_Addr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">jump_Addr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/add_sub_sel" type="logic">
+      <obj_property name="ElementShortName">add_sub_sel</obj_property>
+      <obj_property name="ObjectShortName">add_sub_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/im_val" type="array">
+      <obj_property name="ElementShortName">im_val[3:0]</obj_property>
+      <obj_property name="ObjectShortName">im_val[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/load_sel" type="logic">
+      <obj_property name="ElementShortName">load_sel</obj_property>
+      <obj_property name="ObjectShortName">load_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/En_R7" type="logic">
+      <obj_property name="ElementShortName">En_R7</obj_property>
+      <obj_property name="ObjectShortName">En_R7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Instruction_Decorder_TB/Reg_En" type="array">
+      <obj_property name="ElementShortName">Reg_En[2:0]</obj_property>
+      <obj_property name="ObjectShortName">Reg_En[2:0]</obj_property>
+   </wvobject>
+</wave_config>
